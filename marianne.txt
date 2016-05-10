@@ -1,0 +1,20 @@
+git init
+	initialises new repository
+
+git add(-A or <filename>.<ext>)
+	Add to stage area
+
+git commit -m "<msg>"
+	Send to repository with msg indicating changes
+
+git log
+	show changes
+
+git status
+	staging area
+
+git diff
+	contrast changes made with previous versions
+
+git clone
+	copies repo from online platform to local host 
