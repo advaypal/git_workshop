@@ -1,0 +1,32 @@
+touch <filename> 
+	creates the file
+	e.g. command: touch zachary.txt
+
+git init
+	initialises new repository
+
+git add -A
+	adds all file in working directory to staging area
+
+git add zachary.txt
+	adds zachary.txt to staging area
+
+git commit
+	commit a change
+	e.g. commit -m "First Commit"
+
+git log
+	gives the commits you have previously committed
+	e.g. git log or git log --oneline
+
+git status
+	show the currents status
+		red: file is edited but not staged
+		green: file has been staged
+
+git diff
+	show the difference between staging area and working directory
+
+git clone <url> 
+	clone the repo onto local terminal
+	e.g. git clone https://github.com/zachylimwl/git_workshop.git
