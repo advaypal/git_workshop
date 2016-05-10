@@ -1,0 +1,25 @@
+git init 
+	Initialises new repository
+
+git add
+	"git add -A" adds all
+	you move the files all to the workshop you wanna update
+
+git commit
+	git commit -m "<String>"
+	title of your change
+	and puts it in your repot
+
+git log
+	git log to see a list of changes with the latest one
+	at the top
+	git log --oneline
+	to see all the logs in just one line (more compressed)
+
+git status
+
+git diff
+
+git clone
+	git clone https://github.com/Zing1996/git_workshop-1.git
+	doing so will copy the stuff into your our directory
