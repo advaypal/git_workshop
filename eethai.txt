@@ -1,0 +1,14 @@
+git init
+	Initialises new repository
+git add
+	Moves from working directory to  staging area
+git commit
+	Moves from staging area to repository
+git log
+	Lists all your previous commits
+git status
+	Tells you which stage the file is in
+git diff
+	Shows the difference between file in working directory and file in staging area
+git clone
+	Creates a clone of the repository in the specified url
