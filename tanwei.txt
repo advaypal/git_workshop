@@ -1,0 +1,26 @@
+git init
+	Initialises new repository
+
+git add
+	working directory -> staging area; -A: adds everything
+
+git commit
+	staging area -> repository; -m "String" is to tell what the commit was for
+
+git log/ git log --oneline
+	to show commits
+
+git status
+	changes to be committed / nothing to commit
+
+git diff
+	difference between working directory & staging area
+
+git clone <url>
+	makes a copy of the repository and save into current directory in the local machine
+
+git push origin master
+	pushes into github account
+
+git pull
+	pulls from github to local?
