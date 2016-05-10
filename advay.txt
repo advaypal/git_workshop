@@ -1,0 +1,20 @@
+git init
+	Initialises new repository
+
+git add 
+ 	_______
+
+ git commit 
+ 	_______
+
+ git log 
+ 	_______
+
+ git status
+ 	_______
+
+ git diff 
+ 	_______
+
+ git clone
+ 	______
