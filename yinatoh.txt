@@ -1,0 +1,23 @@
+git init 
+	Initializes new repository
+
+git add filename.filetype
+	move the files to Staging Area
+	(-A) moves all the files to Staging Area
+
+git commit -m "String"
+	move all the files in Staging Area to repository
+	(-m) to leave a commit message
+
+git log (--oneline)
+	to see all your commits
+	() see all your commits in one line
+
+git status
+	to see what's in your staging area
+
+git diff
+	see the differences/changes between Working Directory and Staging Area
+
+git clone url
+	copy the repository from github to computer, becomes local depository
