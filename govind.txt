@@ -11,3 +11,10 @@ git status
 	Tells you whether a file is ready to be committed
 git diff
 	States difference between file in working directory and file in staging area
+git clone
+	Copies online repo onto local host
+git push
+	Updates all commits made on local repo
+git pull
+	Gets the most current repo from the online host onto local repo
+
