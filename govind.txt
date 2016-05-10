@@ -1,0 +1,13 @@
+git init
+	initialises new repository
+
+git add
+	Changes made to git file. 
+git commit
+	Saving the new version fo git file to repository. Commit messages will state changes.
+git log 
+	States every single commit for the current branch only
+git status
+	Tells you whether a file is ready to be committed
+git diff
+	States difference between file in working directory and file in staging area
