@@ -1,0 +1,20 @@
+git init
+		Initialises new repository
+
+git add
+		move to staging area
+
+git commit
+		commit to repository
+
+git log
+		show the log of edits made 
+
+git status
+		changes made to commit
+
+git diff
+		shows the changes made
+
+git clone
+		copy file into local repo
