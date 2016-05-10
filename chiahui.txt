@@ -1,0 +1,17 @@
+git init
+	Initialises the git 
+	LOL
+
+git add
+
+	______
+
+git commit
+
+	_____
+
+git log
+	____
+
+git status
+	______
