@@ -1,0 +1,10 @@
+git init - initialises a new repository
+git add - adds the file from wd to sa
+git commit - moves the file, creates a new snapshot of it and moves it from sa to repository
+git log - get details of commits made
+git log --oneline - get details of commits in concise form
+git status - 
+git diff - differences between file in wd and sa
+
+fork - creates a copy of someone else's github repository in your own repository
+git clone <link> - creates a local copy of your github repository
