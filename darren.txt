@@ -1,0 +1,35 @@
+git init
+	initialize new repository
+
+git add 
+	put a file/directory into the staging area
+
+git commit
+	put files in the staging area to the git repository
+
+git log
+	output a list of commits (newest first)
+
+git status
+	output the current status of the files in the wokring area
+
+git diff
+	difference between Staging Area and Working Directory
+
+git clone
+	create a local copy of the remote repository in your computer
+
+*** Definition ****
+
+local repository
+	the repository on your computer
+
+remote repository
+	the repository on github
+
+*** Arguments ***
+-A: all
+	. 	stages new and modifiied, without deleted
+	-u	stages modified and deleted, without new
+-m: message
+--oneline: output in one line
