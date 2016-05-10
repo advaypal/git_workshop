@@ -1,0 +1,12 @@
+git init
+	init new repository
+
+git add
+
+git commit
+
+git log
+
+git status
+
+git clone
