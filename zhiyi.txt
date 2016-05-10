@@ -1,0 +1,15 @@
+Commands
+git init: Initialises new (empty) repository
+git add: Moves a file from the Working Directory to the Staging Area
+git commit: Moves a file from the Staging Area to the Repository (Finalises changes)
+git log: Returns a log of all commits done
+git log --oneline: Same as git log, but provides a condensed version of all commits done (only commit message shown [e.g. dates of all commits not included])
+git status: Shows all changes in the Staging Area that are waiting to be committed to repository
+git diff: Shows changes that are NOT in the Staging Area (use git add if this command returns stuff to move changes to Staging Area)
+git clone <web link>: Clones the remote repository referenced in the link to your local repository (get the link to the remote repository from GitHub)
+git push origin master: Pushes changes from your local repository into the remote repository on GitHub
+git pull: Pulls all changes from the remote repository into your local repository
+
+Suffixes
+-A: Moves all files (to move a specific file, just include the file name as the suffix [no hyphen needed])
+-m "<message>": Commit message (COMPULSORY when using git commit); Message should be a description of changes made
