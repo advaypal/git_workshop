@@ -30,3 +30,9 @@ git diff
 git clone <url> 
 	clone the repo onto local terminal
 	e.g. git clone https://github.com/zachylimwl/git_workshop.git
+
+git push
+	push to github on the remote repo
+
+git pull
+	pull from github to local repo
